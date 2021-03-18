@@ -38,7 +38,9 @@ public class Ex5 {
 		System.out.println(arr1[0]);
 		System.out.println(arr1[1]);
 		int[] arr2 = new int[2];
-				
+		
+		
+ 				
 		
 		
 		
